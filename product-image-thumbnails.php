@@ -1,4 +1,7 @@
-/* Snippet to add product image thumbnails for ORDER PAGE, THANK YOU PAGE, MY ACCOUNT PAGE, E-MAIL */
+/** 
+ * Snippet to add product image thumbnails for ORDER PAGE, THANK YOU PAGE, MY ACCOUNT PAGE, E-MAIL
+ * Co-author: Sandesh Jangam (https://www.techiesandesh.com/woocommerce-show-product-image-checkout-page/)
+ */
 
 /* Product image thumbnails - ORDER */
 add_filter( 'woocommerce_cart_item_name', 'ts_product_image_on_checkout', 10, 3 );
