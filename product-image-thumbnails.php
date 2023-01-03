@@ -1,3 +1,5 @@
+<?php
+
 /** 
  * Snippet to add product image thumbnails for ORDER PAGE, THANK YOU PAGE, MY ACCOUNT PAGE, E-MAIL
  * Co-author: Sandesh Jangam (https://www.techiesandesh.com/woocommerce-show-product-image-checkout-page/)
@@ -78,3 +80,5 @@ function add_email_order_item_permalink( $output_html, $item, $bool = false ) {
 
     return '<a href="'.esc_url( $product->get_permalink() ).'">' . $output_html . '</a>';
 }
+
+?>
