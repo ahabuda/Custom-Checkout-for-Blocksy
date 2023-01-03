@@ -1,3 +1,5 @@
+<?php
+
 /**
  * Move customer order notes field above the checkboxes.
  * Co-author: LoicTheAztec (https://stackoverflow.com/users/3730754/loictheaztec).
@@ -29,3 +31,5 @@ add_action( 'woocommerce_checkout_create_order', 'customizing_checkout_create_or
 function customizing_checkout_create_order( $order, $data ) {
     $order->set_customer_note( isset( $data['billing_customer_note'] ) ? $data['billing_customer_note'] : '' );
 }
+
+?>
