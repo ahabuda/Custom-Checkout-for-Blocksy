@@ -1,6 +1,6 @@
 /**
  * Move customer order notes field above the checkboxes.
- * Author: LoicTheAztec (https://stackoverflow.com/users/3730754/loictheaztec).
+ * Co-author: LoicTheAztec (https://stackoverflow.com/users/3730754/loictheaztec).
  */
 
 // Checkout fields customizations
