@@ -9,8 +9,8 @@ I am sharing my CSS code and snippets that can help you style your order page. P
 
 ### Desktop:
 
-<img src="https://github.com/ahabuda/Custom-Checkout-for-Blocksy/blob/main/screenshots/checkout-page-desktop-preview.png" width="500" />
+<img src="https://github.com/ahabuda/Custom-Checkout-for-Blocksy/blob/main/screenshots/checkout-page-desktop-preview.png" width="600" />
 
 ### Mobile:
 
-<img src="https://github.com/ahabuda/Custom-Checkout-for-Blocksy/blob/main/screenshots/checkout-page-mobile-preview.png" width="500" />
+<img src="https://github.com/ahabuda/Custom-Checkout-for-Blocksy/blob/main/screenshots/checkout-page-mobile-preview.png" width="600" />
