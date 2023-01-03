@@ -7,4 +7,4 @@ I am sharing my CSS code and snippets that can help you style your order page. P
 
 ## Screenshots
 
-![App Screenshot](https://github.com/ahabuda/Custom-Checkout-for-Blocksy/blob/main/screenshots/checkout-page-mobile-preview.png?raw=true | width=100)
+![App Screenshot](https://github.com/ahabuda/Custom-Checkout-for-Blocksy/blob/main/screenshots/checkout-page-mobile-preview.png)
