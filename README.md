@@ -8,6 +8,15 @@ I am sharing my CSS code and snippets that can help you style your order page. P
 ## Set up a Distraction-Free Checkout
 Tutorial by Blocksy Team: https://creativethemes.com/blocksy/video-tutorials/shorts/set-up-a-distraction-free-checkout/
 
+## Features
+
+- Shopify-style checkout page
+- Product image thumbnails
+- Order notes field above the checkboxes
+- Postcode and City fields on the same line
+- Distraction-Free Checkout (check tutorial below)
+
+
 ## Screenshots
 
 ### Desktop:
