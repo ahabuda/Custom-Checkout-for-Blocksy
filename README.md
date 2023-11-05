@@ -2,7 +2,7 @@
 
 Hi folks,
 
-I am sharing my CSS code and snippets that can help you style your order page. Please take into account that the code was written for a specific site. When I wrote it I didn't think they would be sharing it. Please check the code before adding it to the site and contribute your improvements. I hope the code I shared will help you improve the look of your site.
+I am sharing my CSS code and snippets that can help you style your order page. Please take into account that the code was written for a specific site. When I created it, I didn't think I'd share it. Please check the code before adding it to the site and contribute your improvements. I hope the code I shared will help you improve the look of your site.
 
 
 ## 🚀 Features
