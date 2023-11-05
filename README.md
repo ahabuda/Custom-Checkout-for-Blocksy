@@ -22,8 +22,8 @@ Tutorial by Blocksy Team: https://creativethemes.com/blocksy/video-tutorials/sho
 
 ### Desktop:
 
-<img src="https://github.com/ahabuda/Custom-Checkout-for-Blocksy/blob/main/screenshots/checkout-page-desktop-preview.png" width="1012" />
+<img src="https://github.com/ahabuda/Custom-Checkout-for-Blocksy/blob/v1.0.0/screenshots/checkout-page-desktop-preview.png" width="1012" />
 
 ### Mobile:
 
-<img src="https://github.com/ahabuda/Custom-Checkout-for-Blocksy/blob/main/screenshots/checkout-page-mobile-preview.png" width="600" />
+<img src="https://github.com/ahabuda/Custom-Checkout-for-Blocksy/blob/v1.0.0/screenshots/checkout-page-mobile-preview.png" width="600" />
